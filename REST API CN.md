@@ -1,6 +1,6 @@
 # 通用
 
-[验证签名](rset-api-cn/signature) 验证签名
+[验证签名](signature.md) 验证签名
 
 [返回格式](rset-api-cn/return-format) 返回格式
 
