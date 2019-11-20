@@ -1,3 +1,3 @@
 # NewEx-openapi
 
-* doc directory: include the openapi doc, you could make your sdk with the doc.
+* REST API CN.md: you could make your sdk with the API.
